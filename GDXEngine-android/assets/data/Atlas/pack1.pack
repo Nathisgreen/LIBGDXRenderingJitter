@@ -1,0 +1,2084 @@
+
+pack1.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+sprPiston
+  rotate: false
+  xy: 1, 111
+  size: 64, 400
+  orig: 64, 400
+  offset: 0, 0
+  index: -1
+sprTurbine_Base
+  rotate: false
+  xy: 67, 111
+  size: 25, 400
+  orig: 25, 400
+  offset: 0, 0
+  index: -1
+sprChallengePopup
+  rotate: false
+  xy: 94, 455
+  size: 344, 56
+  orig: 344, 56
+  offset: 0, 0
+  index: -1
+sprNewCloud
+  rotate: false
+  xy: 94, 365
+  size: 264, 88
+  orig: 264, 88
+  offset: 0, 0
+  index: 0
+sprNewCloud
+  rotate: false
+  xy: 94, 275
+  size: 264, 88
+  orig: 264, 88
+  offset: 0, 0
+  index: 1
+sprNewCloud
+  rotate: false
+  xy: 94, 185
+  size: 264, 88
+  orig: 264, 88
+  offset: 0, 0
+  index: 2
+sprSpinningSpinnerTop
+  rotate: false
+  xy: 360, 229
+  size: 96, 224
+  orig: 96, 224
+  offset: 0, 0
+  index: -1
+sprScoreBox
+  rotate: false
+  xy: 94, 151
+  size: 208, 32
+  orig: 208, 32
+  offset: 0, 0
+  index: -1
+sprBgTurbine_Top
+  rotate: false
+  xy: 1, 9
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+sprMoneyBox
+  rotate: false
+  xy: 440, 481
+  size: 140, 30
+  orig: 140, 30
+  offset: 0, 0
+  index: -1
+sprBgTurbine_Base
+  rotate: false
+  xy: 458, 279
+  size: 9, 200
+  orig: 9, 200
+  offset: 0, 0
+  index: -1
+sprSpinningBaseTop
+  rotate: false
+  xy: 469, 415
+  size: 96, 64
+  orig: 96, 64
+  offset: 0, 0
+  index: 0
+sprSpinningBaseTop
+  rotate: false
+  xy: 469, 349
+  size: 96, 64
+  orig: 96, 64
+  offset: 0, 0
+  index: 1
+sprSpinningBaseTop
+  rotate: false
+  xy: 469, 349
+  size: 96, 64
+  orig: 96, 64
+  offset: 0, 0
+  index: 11
+sprSpinningBaseTop
+  rotate: false
+  xy: 469, 283
+  size: 96, 64
+  orig: 96, 64
+  offset: 0, 0
+  index: 10
+sprSpinningBaseTop
+  rotate: false
+  xy: 469, 283
+  size: 96, 64
+  orig: 96, 64
+  offset: 0, 0
+  index: 2
+sprPistonBase
+  rotate: false
+  xy: 94, 126
+  size: 128, 23
+  orig: 128, 23
+  offset: 0, 0
+  index: -1
+sprTurbineBlade
+  rotate: false
+  xy: 567, 343
+  size: 19, 136
+  orig: 19, 136
+  offset: 0, 0
+  index: -1
+sprSpinningBaseTop
+  rotate: false
+  xy: 103, 60
+  size: 96, 64
+  orig: 96, 64
+  offset: 0, 0
+  index: 3
+sprSpinningBaseTop
+  rotate: false
+  xy: 103, 60
+  size: 96, 64
+  orig: 96, 64
+  offset: 0, 0
+  index: 9
+sprSpinningBaseTop
+  rotate: false
+  xy: 360, 163
+  size: 96, 64
+  orig: 96, 64
+  offset: 0, 0
+  index: 4
+sprSpinningBaseTop
+  rotate: false
+  xy: 360, 163
+  size: 96, 64
+  orig: 96, 64
+  offset: 0, 0
+  index: 8
+sprSpinningBaseTop
+  rotate: false
+  xy: 588, 447
+  size: 96, 64
+  orig: 96, 64
+  offset: 0, 0
+  index: 5
+sprSpinningBaseTop
+  rotate: false
+  xy: 588, 447
+  size: 96, 64
+  orig: 96, 64
+  offset: 0, 0
+  index: 7
+sprSpinningBaseTop
+  rotate: false
+  xy: 588, 381
+  size: 96, 64
+  orig: 96, 64
+  offset: 0, 0
+  index: 6
+sprShieldFlash
+  rotate: false
+  xy: 686, 451
+  size: 81, 60
+  orig: 81, 60
+  offset: 0, 0
+  index: -1
+sprShieldNew
+  rotate: false
+  xy: 686, 389
+  size: 81, 60
+  orig: 81, 60
+  offset: 0, 0
+  index: 0
+sprShieldNew
+  rotate: false
+  xy: 769, 451
+  size: 81, 60
+  orig: 81, 60
+  offset: 0, 0
+  index: 1
+sprShieldNew
+  rotate: false
+  xy: 769, 389
+  size: 81, 60
+  orig: 81, 60
+  offset: 0, 0
+  index: 2
+sprShieldNew
+  rotate: false
+  xy: 852, 451
+  size: 81, 60
+  orig: 81, 60
+  offset: 0, 0
+  index: 3
+sprSpinnerGlass
+  rotate: false
+  xy: 852, 379
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+sprMissile
+  rotate: false
+  xy: 103, 36
+  size: 90, 22
+  orig: 90, 22
+  offset: 0, 0
+  index: 0
+sprMissile
+  rotate: false
+  xy: 588, 357
+  size: 90, 22
+  orig: 90, 22
+  offset: 0, 0
+  index: 1
+SprMineTop
+  rotate: false
+  xy: 304, 146
+  size: 54, 37
+  orig: 54, 37
+  offset: 0, 0
+  index: 0
+sprHelicopterParts
+  rotate: false
+  xy: 935, 486
+  size: 76, 25
+  orig: 76, 25
+  offset: 0, 0
+  index: 0
+sprHelicopterParts
+  rotate: false
+  xy: 103, 9
+  size: 76, 25
+  orig: 76, 25
+  offset: 0, 0
+  index: 1
+sprHelicopterParts
+  rotate: false
+  xy: 935, 459
+  size: 76, 25
+  orig: 76, 25
+  offset: 0, 0
+  index: 2
+sprHelicopterParts
+  rotate: false
+  xy: 224, 124
+  size: 76, 25
+  orig: 76, 25
+  offset: 0, 0
+  index: 3
+sprHelicopterParts
+  rotate: false
+  xy: 360, 136
+  size: 76, 25
+  orig: 76, 25
+  offset: 0, 0
+  index: 4
+sprHelicopterParts
+  rotate: false
+  xy: 588, 330
+  size: 76, 25
+  orig: 76, 25
+  offset: 0, 0
+  index: 5
+sprHelicopterParts
+  rotate: false
+  xy: 686, 362
+  size: 76, 25
+  orig: 76, 25
+  offset: 0, 0
+  index: 6
+sprHelicopterParts
+  rotate: false
+  xy: 764, 362
+  size: 76, 25
+  orig: 76, 25
+  offset: 0, 0
+  index: 7
+sprBlocker
+  rotate: false
+  xy: 458, 213
+  size: 32, 64
+  orig: 32, 64
+  offset: 0, 0
+  index: -1
+sprMovingBlock
+  rotate: false
+  xy: 492, 217
+  size: 32, 64
+  orig: 32, 64
+  offset: 0, 0
+  index: -1
+sprMovingBlockBare
+  rotate: false
+  xy: 526, 217
+  size: 32, 64
+  orig: 32, 64
+  offset: 0, 0
+  index: -1
+sprBGMine
+  rotate: false
+  xy: 458, 148
+  size: 32, 63
+  orig: 32, 63
+  offset: 0, 0
+  index: 0
+sprMovingBlockBrokenGlass1
+  rotate: false
+  xy: 492, 151
+  size: 32, 64
+  orig: 32, 64
+  offset: 0, 0
+  index: -1
+sprMovingBlockBrokenGlass2
+  rotate: false
+  xy: 526, 151
+  size: 32, 64
+  orig: 32, 64
+  offset: 0, 0
+  index: -1
+sprStaticBlock
+  rotate: false
+  xy: 924, 385
+  size: 32, 64
+  orig: 32, 64
+  offset: 0, 0
+  index: 0
+sprStaticBlock
+  rotate: false
+  xy: 958, 393
+  size: 32, 64
+  orig: 32, 64
+  offset: 0, 0
+  index: 1
+sprStaticBlock
+  rotate: false
+  xy: 958, 393
+  size: 32, 64
+  orig: 32, 64
+  offset: 0, 0
+  index: 13
+SprMineTop
+  rotate: false
+  xy: 302, 107
+  size: 54, 37
+  orig: 54, 37
+  offset: 0, 0
+  index: 1
+SprMineTop
+  rotate: false
+  xy: 358, 97
+  size: 54, 37
+  orig: 54, 37
+  offset: 0, 0
+  index: 10
+SprMineTop
+  rotate: false
+  xy: 358, 97
+  size: 54, 37
+  orig: 54, 37
+  offset: 0, 0
+  index: 2
+sprBGMine
+  rotate: false
+  xy: 201, 59
+  size: 32, 63
+  orig: 32, 63
+  offset: 0, 0
+  index: 1
+sprBGMine
+  rotate: false
+  xy: 201, 59
+  size: 32, 63
+  orig: 32, 63
+  offset: 0, 0
+  index: 7
+sprBGMine
+  rotate: false
+  xy: 235, 59
+  size: 32, 63
+  orig: 32, 63
+  offset: 0, 0
+  index: 2
+sprBGMine
+  rotate: false
+  xy: 235, 59
+  size: 32, 63
+  orig: 32, 63
+  offset: 0, 0
+  index: 6
+SprMineTop
+  rotate: false
+  xy: 567, 291
+  size: 54, 37
+  orig: 54, 37
+  offset: 0, 0
+  index: 11
+SprMineTop
+  rotate: false
+  xy: 623, 291
+  size: 54, 37
+  orig: 54, 37
+  offset: 0, 0
+  index: 3
+sprUFOParticle
+  rotate: false
+  xy: 1, 2
+  size: 65, 5
+  orig: 65, 5
+  offset: 0, 0
+  index: -1
+SprMineTop
+  rotate: false
+  xy: 195, 20
+  size: 54, 37
+  orig: 54, 37
+  offset: 0, 0
+  index: 4
+SprMineTop
+  rotate: false
+  xy: 195, 20
+  size: 54, 37
+  orig: 54, 37
+  offset: 0, 0
+  index: 8
+sprStaticBlock
+  rotate: false
+  xy: 560, 217
+  size: 32, 64
+  orig: 32, 64
+  offset: 0, 0
+  index: 10
+sprStaticBlock
+  rotate: false
+  xy: 560, 217
+  size: 32, 64
+  orig: 32, 64
+  offset: 0, 0
+  index: 4
+sprStaticBlock
+  rotate: false
+  xy: 560, 151
+  size: 32, 64
+  orig: 32, 64
+  offset: 0, 0
+  index: 11
+sprStaticBlock
+  rotate: false
+  xy: 560, 151
+  size: 32, 64
+  orig: 32, 64
+  offset: 0, 0
+  index: 3
+sprStaticBlock
+  rotate: false
+  xy: 594, 225
+  size: 32, 64
+  orig: 32, 64
+  offset: 0, 0
+  index: 12
+sprStaticBlock
+  rotate: false
+  xy: 594, 225
+  size: 32, 64
+  orig: 32, 64
+  offset: 0, 0
+  index: 2
+sprStaticBlock
+  rotate: false
+  xy: 594, 159
+  size: 32, 64
+  orig: 32, 64
+  offset: 0, 0
+  index: 5
+sprStaticBlock
+  rotate: false
+  xy: 594, 159
+  size: 32, 64
+  orig: 32, 64
+  offset: 0, 0
+  index: 9
+sprStaticBlock
+  rotate: false
+  xy: 628, 225
+  size: 32, 64
+  orig: 32, 64
+  offset: 0, 0
+  index: 6
+sprStaticBlock
+  rotate: false
+  xy: 628, 225
+  size: 32, 64
+  orig: 32, 64
+  offset: 0, 0
+  index: 8
+sprStaticBlock
+  rotate: false
+  xy: 628, 159
+  size: 32, 64
+  orig: 32, 64
+  offset: 0, 0
+  index: 7
+sprBGMine
+  rotate: false
+  xy: 662, 226
+  size: 32, 63
+  orig: 32, 63
+  offset: 0, 0
+  index: 3
+sprBGMine
+  rotate: false
+  xy: 662, 226
+  size: 32, 63
+  orig: 32, 63
+  offset: 0, 0
+  index: 5
+sprBGMine
+  rotate: false
+  xy: 662, 161
+  size: 32, 63
+  orig: 32, 63
+  offset: 0, 0
+  index: 4
+sprChainLong
+  rotate: false
+  xy: 992, 398
+  size: 6, 59
+  orig: 6, 59
+  offset: 0, 0
+  index: -1
+SprMineTop
+  rotate: false
+  xy: 594, 120
+  size: 54, 37
+  orig: 54, 37
+  offset: 0, 0
+  index: 5
+sprMine
+  rotate: false
+  xy: 269, 92
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: 0
+SprMineTop
+  rotate: false
+  xy: 301, 68
+  size: 54, 37
+  orig: 54, 37
+  offset: 0, 0
+  index: 6
+sprMine
+  rotate: false
+  xy: 269, 60
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: 1
+SprMineTop
+  rotate: false
+  xy: 357, 58
+  size: 54, 37
+  orig: 54, 37
+  offset: 0, 0
+  index: 7
+SprMineTop
+  rotate: false
+  xy: 301, 29
+  size: 54, 37
+  orig: 54, 37
+  offset: 0, 0
+  index: 9
+sprExplosion
+  rotate: false
+  xy: 357, 16
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: 0
+sprMine
+  rotate: false
+  xy: 269, 28
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: 2
+sprExplosion
+  rotate: false
+  xy: 414, 94
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: 1
+sprExplosion
+  rotate: false
+  xy: 413, 52
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: 2
+sprExplosion
+  rotate: false
+  xy: 456, 106
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: 3
+sprExplosion
+  rotate: false
+  xy: 498, 109
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: 4
+sprExplosion
+  rotate: false
+  xy: 540, 109
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: 5
+sprExplosion
+  rotate: false
+  xy: 399, 10
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: 6
+sprPlane1Parts
+  rotate: false
+  xy: 251, 1
+  size: 33, 25
+  orig: 33, 25
+  offset: 0, 0
+  index: 0
+sprPlane1Parts
+  rotate: false
+  xy: 286, 1
+  size: 33, 25
+  orig: 33, 25
+  offset: 0, 0
+  index: 1
+sprPlane1Parts
+  rotate: false
+  xy: 321, 2
+  size: 33, 25
+  orig: 33, 25
+  offset: 0, 0
+  index: 2
+sprExplosion
+  rotate: false
+  xy: 441, 10
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: 7
+sprSmoke
+  rotate: false
+  xy: 455, 52
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: 4
+sprSmoke
+  rotate: false
+  xy: 483, 10
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: 5
+sprPlane1Parts
+  rotate: false
+  xy: 666, 330
+  size: 33, 25
+  orig: 33, 25
+  offset: 0, 0
+  index: 3
+Score_SilverDollarSpin
+  rotate: false
+  xy: 701, 328
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 0
+Score_SilverDollarSpin
+  rotate: false
+  xy: 701, 328
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 12
+Score_SilverDollarSpin
+  rotate: false
+  xy: 735, 328
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1
+Score_SilverDollarSpin
+  rotate: false
+  xy: 769, 328
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 10
+Score_SilverDollarSpin
+  rotate: false
+  xy: 803, 328
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 11
+sprMineGlass
+  rotate: false
+  xy: 679, 301
+  size: 20, 27
+  orig: 20, 27
+  offset: 0, 0
+  index: -1
+sprPlane1Parts
+  rotate: false
+  xy: 701, 301
+  size: 33, 25
+  orig: 33, 25
+  offset: 0, 0
+  index: 4
+sprPlane1Parts
+  rotate: false
+  xy: 736, 301
+  size: 33, 25
+  orig: 33, 25
+  offset: 0, 0
+  index: 5
+sprPlane1Parts
+  rotate: false
+  xy: 771, 301
+  size: 33, 25
+  orig: 33, 25
+  offset: 0, 0
+  index: 6
+Score_SilverDollarSpin
+  rotate: false
+  xy: 696, 267
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 2
+Score_SilverDollarSpin
+  rotate: false
+  xy: 696, 233
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 3
+Score_SilverDollarSpin
+  rotate: false
+  xy: 730, 267
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 4
+Score_SilverDollarSpin
+  rotate: false
+  xy: 696, 199
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 5
+Score_SilverDollarSpin
+  rotate: false
+  xy: 696, 199
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 7
+Score_SilverDollarSpin
+  rotate: false
+  xy: 730, 233
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 6
+Score_SilverDollarSpin
+  rotate: false
+  xy: 764, 267
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 8
+Score_SilverDollarSpin
+  rotate: false
+  xy: 696, 165
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 9
+sprBlackSquare
+  rotate: false
+  xy: 730, 199
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+sprGun
+  rotate: false
+  xy: 764, 233
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 0
+sprGun
+  rotate: false
+  xy: 730, 165
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1
+sprGun
+  rotate: false
+  xy: 764, 199
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 2
+sprGun
+  rotate: false
+  xy: 764, 165
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 3
+sprGun
+  rotate: false
+  xy: 806, 294
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 4
+sprMagnet
+  rotate: false
+  xy: 798, 260
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 0
+sprMagnet
+  rotate: false
+  xy: 798, 226
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1
+sprMagnet
+  rotate: false
+  xy: 798, 226
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 10
+sprMagnet
+  rotate: false
+  xy: 798, 192
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 2
+sprMagnet
+  rotate: false
+  xy: 798, 158
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 3
+sprChain
+  rotate: false
+  xy: 1013, 470
+  size: 6, 41
+  orig: 6, 41
+  offset: 0, 0
+  index: -1
+sprChainLink
+  rotate: false
+  xy: 842, 353
+  size: 8, 34
+  orig: 8, 34
+  offset: 0, 0
+  index: -1
+sprPlane1Parts
+  rotate: false
+  xy: 852, 352
+  size: 33, 25
+  orig: 33, 25
+  offset: 0, 0
+  index: 7
+sprPlane1Parts
+  rotate: false
+  xy: 887, 352
+  size: 33, 25
+  orig: 33, 25
+  offset: 0, 0
+  index: 8
+sprMagnet
+  rotate: false
+  xy: 650, 125
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 4
+sprMagnet
+  rotate: false
+  xy: 684, 127
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 5
+sprMagnet
+  rotate: false
+  xy: 718, 131
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 6
+sprMagnet
+  rotate: false
+  xy: 752, 131
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 7
+sprMagnet
+  rotate: false
+  xy: 786, 124
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 8
+sprMagnet
+  rotate: false
+  xy: 820, 124
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 9
+sprScoreX2
+  rotate: false
+  xy: 958, 359
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 0
+sprScoreX2
+  rotate: false
+  xy: 924, 351
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1
+sprScoreX2
+  rotate: false
+  xy: 832, 260
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 2
+sprScoreX2
+  rotate: false
+  xy: 832, 226
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 3
+sprSheild
+  rotate: false
+  xy: 832, 192
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 0
+sprSheild
+  rotate: false
+  xy: 832, 158
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1
+sprSheild
+  rotate: false
+  xy: 832, 158
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 9
+sprSheild
+  rotate: false
+  xy: 854, 124
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 2
+sprSheild
+  rotate: false
+  xy: 958, 325
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 3
+sprUFOParts
+  rotate: false
+  xy: 718, 114
+  size: 36, 15
+  orig: 36, 15
+  offset: 0, 0
+  index: 0
+sprSheild
+  rotate: false
+  xy: 684, 93
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 4
+sprSheild
+  rotate: false
+  xy: 650, 91
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 5
+sprSheild
+  rotate: false
+  xy: 718, 80
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 6
+sprSheild
+  rotate: false
+  xy: 684, 59
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 7
+sprSheild
+  rotate: false
+  xy: 718, 46
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 8
+sprGunIcon
+  rotate: false
+  xy: 756, 105
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+sprShrink
+  rotate: false
+  xy: 752, 71
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 0
+sprShrink
+  rotate: false
+  xy: 752, 37
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1
+sprUFOParts
+  rotate: false
+  xy: 782, 107
+  size: 36, 15
+  orig: 36, 15
+  offset: 0, 0
+  index: 1
+sprShrink
+  rotate: false
+  xy: 786, 73
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 10
+sprShrink
+  rotate: false
+  xy: 820, 90
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 11
+sprShrink
+  rotate: false
+  xy: 786, 39
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 2
+sprShrink
+  rotate: false
+  xy: 820, 56
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 3
+sprShrink
+  rotate: false
+  xy: 854, 90
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 4
+sprShrink
+  rotate: false
+  xy: 854, 56
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 5
+sprUFOParts
+  rotate: false
+  xy: 820, 39
+  size: 36, 15
+  orig: 36, 15
+  offset: 0, 0
+  index: 2
+sprMine
+  rotate: false
+  xy: 858, 24
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: 3
+sprUFOParts
+  rotate: false
+  xy: 498, 92
+  size: 36, 15
+  orig: 36, 15
+  offset: 0, 0
+  index: 3
+sprShrink
+  rotate: false
+  xy: 497, 58
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 6
+sprUFOParts
+  rotate: false
+  xy: 536, 92
+  size: 36, 15
+  orig: 36, 15
+  offset: 0, 0
+  index: 4
+sprShrink
+  rotate: false
+  xy: 531, 58
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 7
+sprShrink
+  rotate: false
+  xy: 525, 24
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 8
+sprUFOParts
+  rotate: false
+  xy: 525, 7
+  size: 36, 15
+  orig: 36, 15
+  offset: 0, 0
+  index: 5
+sprShrink
+  rotate: false
+  xy: 559, 24
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 9
+sprSlow
+  rotate: false
+  xy: 565, 58
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 0
+sprMine
+  rotate: false
+  xy: 992, 366
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: 4
+sprMine
+  rotate: false
+  xy: 992, 334
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: 5
+sprPauseButton
+  rotate: false
+  xy: 992, 302
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+sprSlow
+  rotate: false
+  xy: 599, 86
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1
+sprSlow
+  rotate: false
+  xy: 599, 52
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 2
+sprSlow
+  rotate: false
+  xy: 593, 18
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 3
+sprSlow
+  rotate: false
+  xy: 633, 57
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 4
+sprSlow
+  rotate: false
+  xy: 627, 18
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 5
+sprCollectGun
+  rotate: false
+  xy: 567, 330
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+SmallDaimondCoin
+  rotate: false
+  xy: 563, 4
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: 0
+SmallDaimondCoin
+  rotate: false
+  xy: 563, 4
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: 13
+sprCoinGLow
+  rotate: false
+  xy: 1000, 435
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+SmallDaimondCoin
+  rotate: false
+  xy: 1000, 415
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: 1
+sprBulletBig
+  rotate: false
+  xy: 935, 451
+  size: 12, 6
+  orig: 12, 6
+  offset: 0, 0
+  index: -1
+sprSlow
+  rotate: false
+  xy: 786, 5
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 6
+sprSlow
+  rotate: false
+  xy: 820, 5
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 7
+SmallDaimondCoin
+  rotate: false
+  xy: 854, 4
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: 10
+SmallDaimondCoin
+  rotate: false
+  xy: 874, 4
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: 11
+sprThruster
+  rotate: false
+  xy: 679, 291
+  size: 10, 8
+  orig: 10, 8
+  offset: 0, 0
+  index: 0
+sprBulletRocket
+  rotate: false
+  xy: 399, 52
+  size: 11, 4
+  orig: 11, 4
+  offset: 0, 0
+  index: -1
+sprThruster
+  rotate: false
+  xy: 582, 141
+  size: 10, 8
+  orig: 10, 8
+  offset: 0, 0
+  index: 1
+sprThruster
+  rotate: false
+  xy: 582, 141
+  size: 10, 8
+  orig: 10, 8
+  offset: 0, 0
+  index: 9
+sprThruster
+  rotate: false
+  xy: 582, 131
+  size: 10, 8
+  orig: 10, 8
+  offset: 0, 0
+  index: 2
+sprThruster
+  rotate: false
+  xy: 582, 131
+  size: 10, 8
+  orig: 10, 8
+  offset: 0, 0
+  index: 8
+sprThruster
+  rotate: false
+  xy: 582, 121
+  size: 10, 8
+  orig: 10, 8
+  offset: 0, 0
+  index: 3
+sprThruster
+  rotate: false
+  xy: 582, 121
+  size: 10, 8
+  orig: 10, 8
+  offset: 0, 0
+  index: 7
+sprThruster
+  rotate: false
+  xy: 1013, 460
+  size: 10, 8
+  orig: 10, 8
+  offset: 0, 0
+  index: 4
+sprThruster
+  rotate: false
+  xy: 1013, 460
+  size: 10, 8
+  orig: 10, 8
+  offset: 0, 0
+  index: 6
+sprCoinCollect2
+  rotate: false
+  xy: 94, 117
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+sprMagnetIcon
+  rotate: false
+  xy: 661, 31
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+sprSheildIcon
+  rotate: false
+  xy: 687, 33
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+sprShrinkIcon
+  rotate: false
+  xy: 661, 5
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+sprSlowTimeIcon
+  rotate: false
+  xy: 687, 7
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+sprSmoke
+  rotate: false
+  xy: 713, 20
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 0
+sprCollectMagnet
+  rotate: false
+  xy: 739, 33
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+sprSmoke
+  rotate: false
+  xy: 752, 11
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 1
+sprCollectScore
+  rotate: false
+  xy: 739, 20
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+sprCollectSheild
+  rotate: false
+  xy: 440, 468
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+sprCollectShrink
+  rotate: false
+  xy: 440, 455
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+sprSmoke
+  rotate: false
+  xy: 866, 326
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 2
+sprSmoke
+  rotate: false
+  xy: 892, 326
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 3
+sprSpark1
+  rotate: false
+  xy: 918, 325
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 0
+sprSpark1
+  rotate: false
+  xy: 840, 326
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 1
+sprSpark1
+  rotate: false
+  xy: 840, 300
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 2
+sprSpark1
+  rotate: false
+  xy: 866, 300
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 3
+sprSpark2
+  rotate: false
+  xy: 892, 300
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 0
+sprSpark2
+  rotate: false
+  xy: 918, 299
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 1
+sprSpark2
+  rotate: false
+  xy: 866, 274
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 2
+sprSpark2
+  rotate: false
+  xy: 892, 274
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 3
+sprSpark
+  rotate: false
+  xy: 866, 248
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 0
+sprSpark
+  rotate: false
+  xy: 866, 222
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 1
+sprSpark
+  rotate: false
+  xy: 892, 248
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 2
+sprSpark
+  rotate: false
+  xy: 918, 273
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 3
+sprSpark
+  rotate: false
+  xy: 866, 196
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 4
+sprSpark
+  rotate: false
+  xy: 892, 222
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 5
+SmallDaimondCoin
+  rotate: false
+  xy: 918, 253
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: 12
+SmallDaimondCoin
+  rotate: false
+  xy: 918, 253
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: 8
+SmallDaimondCoin
+  rotate: false
+  xy: 866, 176
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: 2
+SmallDaimondCoin
+  rotate: false
+  xy: 892, 202
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: 3
+SmallDaimondCoin
+  rotate: false
+  xy: 918, 233
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: 4
+SmallDaimondCoin
+  rotate: false
+  xy: 918, 213
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: 5
+SmallDaimondCoin
+  rotate: false
+  xy: 944, 305
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: 6
+SmallDaimondCoin
+  rotate: false
+  xy: 944, 285
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: 7
+SmallDaimondCoin
+  rotate: false
+  xy: 964, 305
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: 9
+SmallGoldCoin
+  rotate: false
+  xy: 964, 285
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: 0
+SmallGoldCoin
+  rotate: false
+  xy: 964, 285
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: 13
+SmallGoldCoin
+  rotate: false
+  xy: 944, 265
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: 1
+SmallGoldCoin
+  rotate: false
+  xy: 964, 265
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: 10
+SmallGoldCoin
+  rotate: false
+  xy: 938, 245
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: 11
+SmallGoldCoin
+  rotate: false
+  xy: 938, 225
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: 12
+SmallGoldCoin
+  rotate: false
+  xy: 938, 225
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: 8
+SmallGoldCoin
+  rotate: false
+  xy: 958, 245
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: 2
+SmallGoldCoin
+  rotate: false
+  xy: 958, 225
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: 3
+SmallGoldCoin
+  rotate: false
+  xy: 984, 282
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: 4
+SmallGoldCoin
+  rotate: false
+  xy: 1004, 282
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: 5
+SmallGoldCoin
+  rotate: false
+  xy: 984, 262
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: 6
+SmallGoldCoin
+  rotate: false
+  xy: 1004, 262
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: 7
+SmallGoldCoin
+  rotate: false
+  xy: 978, 242
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: 9
+SmallSilverCoin
+  rotate: false
+  xy: 998, 242
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: 0
+SmallSilverCoin
+  rotate: false
+  xy: 998, 242
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: 13
+SmallSilverCoin
+  rotate: false
+  xy: 978, 222
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: 1
+SmallSilverCoin
+  rotate: false
+  xy: 998, 222
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: 10
+SmallSilverCoin
+  rotate: false
+  xy: 938, 205
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: 11
+SmallSilverCoin
+  rotate: false
+  xy: 958, 205
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: 12
+SmallSilverCoin
+  rotate: false
+  xy: 958, 205
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: 8
+SmallSilverCoin
+  rotate: false
+  xy: 978, 202
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: 2
+SmallSilverCoin
+  rotate: false
+  xy: 998, 202
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: 3
+SmallSilverCoin
+  rotate: false
+  xy: 886, 176
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: 4
+SmallSilverCoin
+  rotate: false
+  xy: 912, 193
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: 5
+SmallSilverCoin
+  rotate: false
+  xy: 906, 173
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: 6
+SmallSilverCoin
+  rotate: false
+  xy: 932, 185
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: 7
+SmallSilverCoin
+  rotate: false
+  xy: 952, 185
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: 9
+sprCoinCollectableBronze
+  rotate: false
+  xy: 972, 182
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: 0
+sprCoinCollectableBronze
+  rotate: false
+  xy: 972, 182
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: 13
+sprCoinCollectableBronze
+  rotate: false
+  xy: 972, 182
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: 8
+sprCoinCollectableBronze
+  rotate: false
+  xy: 992, 182
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: 1
+sprCoinCollectableBronze
+  rotate: false
+  xy: 926, 165
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: 10
+sprCoinCollectableBronze
+  rotate: false
+  xy: 946, 165
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: 11
+sprCoinCollectableBronze
+  rotate: false
+  xy: 966, 162
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: 12
+sprCoinCollectableBronze
+  rotate: false
+  xy: 986, 162
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: 2
+sprThruster
+  rotate: false
+  xy: 582, 111
+  size: 10, 8
+  orig: 10, 8
+  offset: 0, 0
+  index: 5
+sprBgBird
+  rotate: false
+  xy: 181, 27
+  size: 10, 7
+  orig: 10, 7
+  offset: 0, 0
+  index: 0
+sprBgBird
+  rotate: false
+  xy: 438, 154
+  size: 10, 7
+  orig: 10, 7
+  offset: 0, 0
+  index: 1
+sprBgBird
+  rotate: false
+  xy: 251, 50
+  size: 10, 7
+  orig: 10, 7
+  offset: 0, 0
+  index: 2
+sprBgBird
+  rotate: false
+  xy: 251, 50
+  size: 10, 7
+  orig: 10, 7
+  offset: 0, 0
+  index: 4
+sprBgBird
+  rotate: false
+  xy: 456, 97
+  size: 10, 7
+  orig: 10, 7
+  offset: 0, 0
+  index: 3
+sprParticleGunSmall2
+  rotate: false
+  xy: 798, 294
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+sprParticleMagnetSmall2
+  rotate: false
+  xy: 786, 158
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+sprParticleScoreSmall2
+  rotate: false
+  xy: 1018, 255
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+sprParticleSheildSmall2
+  rotate: false
+  xy: 1018, 248
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+sprParticleShrinkSmall2
+  rotate: false
+  xy: 1018, 241
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+sprParticleTimeSmall2
+  rotate: false
+  xy: 1018, 234
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+sprParticleGunBig2
+  rotate: false
+  xy: 633, 111
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+sprParticleMagnetBig2
+  rotate: false
+  xy: 583, 15
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+sprParticleScoreBig2
+  rotate: false
+  xy: 1000, 406
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+sprParticleSheildBig2
+  rotate: false
+  xy: 667, 82
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+sprParticleShrinkBig2
+  rotate: false
+  xy: 713, 11
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+sprParticleTimeBig2
+  rotate: false
+  xy: 944, 342
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+sprPoint
+  rotate: false
+  xy: 866, 167
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+sprCoinCollectableBronze
+  rotate: false
+  xy: 888, 142
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: 3
+sprCoinCollectableBronze
+  rotate: false
+  xy: 888, 122
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: 4
+sprCoinCollectableBronze
+  rotate: false
+  xy: 888, 102
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: 5
+sprCoinCollectableBronze
+  rotate: false
+  xy: 888, 82
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: 6
+sprCoinCollectableBronze
+  rotate: false
+  xy: 888, 62
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: 7
+sprCoinCollectableBronze
+  rotate: false
+  xy: 890, 42
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: 9
